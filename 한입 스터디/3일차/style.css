@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(0, 69, 134);
+    text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 30px rgb(235, 253, 76), 0 0 5px rgb(218, 253, 60);
+}
+h3 { color: rgb(89, 0, 131); }
+h2{margin-left: 39px;}
+
+/* h2 옆에 공간을두고싶어 처음엔 html으로 직접 &nbsp;을 이용해서 뛰어쓰기를 하였지만 css margin을 이용해서 공간을 만드는게
+더 나은것같아 구글신께 물어보고 마진으로 공간을 만들었다.*/
+.asd{border-bottom: 1px solid gray;}
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@700&display=swap');
+
+body{ font-family: 'Nanum Gothic Coding', monospace;}
+ /*구글 폰트에서 보여지는 폰트 이미지랑 내가만든 사이트에서 보여지는 폰트랑 뭔가 다른거같다.*/
