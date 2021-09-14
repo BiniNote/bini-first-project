@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(0, 69, 134);
+    text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 30px rgb(235, 253, 76), 0 0 5px rgb(218, 253, 60);
+}
+h2 { color: rgb(6, 28, 228); }
+
+h2{margin-left: 39px;
+border-top-width: 5px;
+}
+
+.asd{border-bottom: 1px solid gray;}
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@700&display=swap');
+
+body{ font-family: 'Nanum Gothic Coding', monospace;}
+ 
